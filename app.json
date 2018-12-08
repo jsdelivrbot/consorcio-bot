@@ -2,7 +2,7 @@
   "name": "Consorcio Bot",
   "description": "A bot to verify consortium draw",
   "repository": "https://github.com/marcosbrazz/consorcio-bot",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "logo": "https://cdn.jsdelivr.net/gh/heroku/node-js-getting-started/public/node.svg",
   "keywords": ["node", "batch", "bot"],
   "image": "heroku/nodejs"
 }
